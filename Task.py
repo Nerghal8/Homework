@@ -1,10 +1,9 @@
 _author_ = "Макаров Александр Александрович"
 #Задача №1
-number = ("1", '0', "2", "3","7")
-I = 0
-while len(number) > I:
-    print(number[I])
-    I += 1
+number = 21348
+while number > 0:
+    print(-number%10)
+    number = (number // 10)
 
 #Задача №2
 a = input("Введите значение переменной a:")
