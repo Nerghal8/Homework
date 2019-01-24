@@ -10,6 +10,6 @@ for i in count:
 #Задача №2
 
 date = ["10.12.2015"]
-dic = {'10':'Десятое','12':'декабря'}
-for key in date.keys:
-    print(key,"2015 года.")
+date2 = ["Десятое","декабря"]
+print(date = {},{},".2015 года.".format(date2)
+print(date)
