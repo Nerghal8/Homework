@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c95b71b5-1f2a-4eae-9af8-1c51abc82aa7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/TaskEasy6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TaskNormal2.py" beforeDir="false" afterPath="$PROJECT_DIR$/TaskNormal2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TaskNormal4.py" beforeDir="false" afterPath="$PROJECT_DIR$/TaskNormal4.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,14 +13,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TaskEasy5.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="575">
-              <caret line="35" column="37" lean-forward="true" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+              <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
               <folding>
                 <element signature="e#48#57#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TaskEasy6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" column="88" lean-forward="true" selection-start-line="35" selection-start-column="88" selection-end-line="35" selection-end-column="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -52,16 +68,16 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" />
         <option value="$PROJECT_DIR$/TaskNormal4.py" />
         <option value="$PROJECT_DIR$/TaskNormal2.py" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/TaskEasy5.py" />
         <option value="$PROJECT_DIR$/Task.py" />
         <option value="$PROJECT_DIR$/TaskEasy5.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="343" />
-    <option name="y" value="152" />
+    <option name="x" value="356" />
+    <option name="y" value="160" />
     <option name="width" value="1400" />
     <option name="height" value="994" />
   </component>
@@ -73,7 +89,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,6 +109,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -102,8 +118,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Цепеш\.PyCharmCE2018.3\config\scratches" />
       <recent name="C:\Users\Цепеш\Desktop\Homework" />
+      <recent name="C:\Users\Цепеш\.PyCharmCE2018.3\config\scratches" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -269,7 +285,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="343" y="152" width="1400" height="994" extended-state="0" />
+    <frame x="356" y="160" width="1400" height="994" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
@@ -335,7 +351,6 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8.py" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/TaskEasy5.py" />
     <entry file="file://$PROJECT_DIR$/TaskNormal2.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -350,17 +365,34 @@
     <entry file="file://$PROJECT_DIR$/TaskEasy5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
-          <caret line="35" column="37" lean-forward="true" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+          <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
           <folding>
             <element signature="e#48#57#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/TaskEasy6.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Task.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskEasy6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="88" lean-forward="true" selection-start-line="35" selection-start-column="88" selection-end-line="35" selection-end-column="88" />
         </state>
       </provider>
     </entry>
